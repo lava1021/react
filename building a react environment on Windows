@@ -1,0 +1,10 @@
+download node.js
+Win + R run cmd 
+node -v  -- show current node version
+npm -v -- show current npm version
+npm install -g create-react-app   -- downloading react npm 
+mkdir ReactDemo -- create a directory to store your react project
+cd ReactDemo
+create-react-app demo01   --create a React app  called demo01 
+cd demo01
+npm start  -- should pop out a website showing a react symbol!!!!
